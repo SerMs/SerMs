@@ -2,8 +2,8 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=System.out.println(%22Hello%2C%20World%22);SerMs祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    <a href="https://blog.serms.top/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=System.out.println(%22Hello%2C%20World%22);SerMs祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -42,35 +42,14 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是SerMs。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;大家好，我是小黄同学。</p>
+<!--<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>  -->
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
-
-<tr>
-<td>
-  
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://bu.dusays.com/2023/10/09/652415ec90cc6.png" />
-
-- [湖南云智讯连](http://www.iipcloud.com/) &emsp; 📌 2023-08-22 —— Now
-  
-  - 工作岗位：Java开发工程师
-  - 工作内容：MES相关
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/nio.png" />
-
-- [蔚来汽车科技（长沙）有限公司](https://www.nio.cn/) &emsp; 📌 2022-10-20 —— 2023-05-12
-  
-  - 工作岗位：Java后端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
-</td>
-</tr>
+ 
 
 <tr><td>
 
@@ -80,11 +59,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>SerMs の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://blog.serms.top/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
+* <a href='https://blog.serms.top/archives/brain' target='_blank'>SerMs の 第二大脑正在施工中 。。。</a> - 2023-03-26
+* <a href='https://blog.serms.top/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://blog.serms.top/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.serms.top/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -96,11 +75,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/books/%E4%B8%83%E5%B9%B4%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90/01.html' target='_blank'>人生最重要的概念：复利</a> - 2023-09-30
-* <a href='https://brain.sunguoqi.com/web/frontend/css/css-in-depth/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/css/css-world/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/my-notes/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-09-08
+* <a href='https://brain.serms.top/life/books/%E4%B8%83%E5%B9%B4%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90/01.html' target='_blank'>人生最重要的概念：复利</a> - 2023-09-30
+* <a href='https://brain.serms.top/web/frontend/css/css-in-depth/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.serms.top/web/frontend/css/css-world/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.serms.top/web/frontend/js/my-notes/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.serms.top/ai/basic/test.html' target='_blank'>前言</a> - 2023-09-08
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -325,7 +304,7 @@ mindmap
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/SerMs/running/assets/github_2023.svg" /></a><br></td>
+    <td colspan="2"><a href="https://run.serms.top"><img width="200%" src="https://cdn.jsdelivr.net/gh/SerMs/running/assets/github_2023.svg" /></a><br></td>
   </tr>
 </table>
 </div>
